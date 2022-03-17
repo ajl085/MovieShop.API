@@ -5,9 +5,9 @@ VisualStudioVersion = 17.0.32126.317
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieShopAPI", "MovieShopAPI\MovieShopAPI.csproj", "{3264399F-81E0-42F5-9FC4-267509D09AB6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApplicationCore", "..\MovieShop\ApplicationCore\ApplicationCore.csproj", "{7BBCA580-CC52-44D5-8A6F-6917F0AEC235}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApplicationCore", "..\MovieShopAPI\ApplicationCore\ApplicationCore.csproj", "{7BBCA580-CC52-44D5-8A6F-6917F0AEC235}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "..\MovieShop\Infrastructure\Infrastructure.csproj", "{1D97FD2D-A480-486B-9CC3-B15BB69848C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "..\MovieShopAPI\Infrastructure\Infrastructure.csproj", "{1D97FD2D-A480-486B-9CC3-B15BB69848C5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
